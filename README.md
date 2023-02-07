@@ -1,2 +1,2 @@
-# Welcome to my ebay store Sacred_Garden at <a>www.ebay.com/sacred_garden</a>
+# Welcome to my ebay store <a href="www.ebay.com/sacred_garden">Sacred_Garden</a>
  
